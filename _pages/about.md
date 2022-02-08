@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I’m involved with various quantitative finance and political science groups on campus.
+I'm currently a second year undergraduate at the University of Chicago studying economics and neuroscience. I’m involved with various finance RSOs on campus.
 
-I have professional interests in trading, quantitative research, and data science. This upcoming summer I will be working as a Quantitative Research Intern at J.P. Morgan in the Securitized Products Group.
+I have professional interests in investment banking, healthcare, and consulting. This upcoming summer I will be working as an analyst at Brookside Equity Partners in Stamford, Connecticut. 
 
 Feel free to reach out!
 
