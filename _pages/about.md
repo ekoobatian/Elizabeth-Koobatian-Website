@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second year undergraduate at the University of Chicago studying economics and neuroscience. I’m involved with various finance RSOs on campus.
+I'm currently a second year undergraduate at the University of Chicago studying economics and neuroscience. I’m involved with various finance RSOs on campus. I previously attended Hotchkiss School in CT and took a gap year where I explored Australia.
 
 I have professional interests in investment banking, healthcare, and consulting. This upcoming summer I will be working as an analyst at Brookside Equity Partners in Stamford, Connecticut. 
 
@@ -29,7 +29,7 @@ Extracurriculars
 I am a member of The Blue Chips, which is the premier undergraduate finance RSO on campus. Through this organization, I completed a comprehensive 8 week training program and exam designed to teach basic analytical skills, value investing, and financial accounting. I am currently a healthcare analyst and my responsibilities include helping manage the club’s $150,000 value-focused portfolio through stock pitch for the communications industry and DCF calculations. 
 
 **Women in Business**<br />
-I am involved in WIB where I am responsible for...
+I am involved in WIB, a supporting women-led online and in-person community for female entrepreneurs. Here, I serve as an associate where I am responsible for mentoring younger women in this organization.
 
 Relevant Coursework
 ------
@@ -43,7 +43,7 @@ Relevant Coursework
 
 Awards
 ------
-- ...
+- Former Captain of Hotchkiss Sailing Team
 
 Skills & Interests
 ------
