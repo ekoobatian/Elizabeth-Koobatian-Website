@@ -19,7 +19,7 @@ Experience
 **Girls Who Invest**<br />
 I am currently a GWI online intensive scholar where I am absorbing a solid foundation in core finance and investment concepts at their own pace. I am in the process of completing three online modules from their leading educational partners*: CFA Institute, Wall Street Prep and Wharton Online. 
 
-**UChicago Medicine - Economics Research Assistant **<br />
+**UChicago Medicine - Economics Research Assistant**<br />
 This past summer I assisted the Neurointensivist team on research regarding medical decisions under uncertainty in neurocritical cases. In this role I gather and analyze data from National Trauma Database to apply the economic theory of expected utility to patient outcome.
 
 Extracurriculars
